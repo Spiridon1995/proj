@@ -6,3 +6,6 @@ public class MainApplication {
         System.out.println("111111");
     }
 }
+public static void doSomething(){
+    System.out.println(1);
+}
